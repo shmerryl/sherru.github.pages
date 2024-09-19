@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "5.0.0",
-  "homepage": "https://shmerryl.github.io/shmerryl.github.pages/",
+  "homepage": "https://shmerryl.github.io/shmerryl.github.pages/src/public/index.html",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
